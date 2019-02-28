@@ -357,7 +357,7 @@
 	"conversation_changed_channel_photo": "頻道照片已更新",
 	"conversation_removed_channel_photo": "頻道照片已移除",
 	"conversation_pinned_message": "置頂訊息",
-	"conversation_scored_X": "{'one': 'scored {}', 'other': 'scored {}'}",
+	"conversation_scored_X": "{'一': '得到 {} 分', '其它': '得到 {} 分'}",
 
 	"conversation_message_sent": "傳送了一則訊息給您",
 	"conversation_forwarded_X_messages": "{'one': '轉傳的 {} 則訊息', 'other': '轉傳的 {} 則訊息'}",
