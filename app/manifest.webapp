@@ -1,12 +1,12 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
+  "name": "Telegram_CN",
+  "description": "Telegram 中文网页版\n请访问 https://mykeyvans.space/ 以获得更多信息",
   "version": "0.7.0",
   "type": "privileged",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Igor Zhukov",
-    "url": "https://github.com/zhukov"
+    "name": "MyKeyVans",
+    "url": "https://github.com/etnperlong"
   },
   "installs_allowed_from": [
     "*"

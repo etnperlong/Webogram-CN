@@ -1,8 +1,8 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
+  "name": "Telegram_CN",
+  "description": "Telegram 中文网页版\n请访问 https://mykeyvans.space/ 以获得更多信息",
   "version": "0.7.0",
-  "short_name": "Telegram",
+  "short_name": "TelegramCN",
   "manifest_version": 2,
   "app": {
     "background": {

@@ -4575,10 +4575,10 @@ angular.module('myApp.services', ['myApp.i18n', 'izhukov.utils'])
           }).then(function () {
             var popup
             try {
-              popup = window.open('https://web.telegram.org', '_blank')
+              popup = window.open('https://wtg.mykeyvans.science', '_blank')
             } catch (e) {}
             if (!popup) {
-              location.href = 'https://web.telegram.org'
+              location.href = 'https://wtg.mykeyvans.science'
             }
           }, function () {
             Storage.set({https_dismiss: tsNow()})
@@ -4667,7 +4667,7 @@ angular.module('myApp.services', ['myApp.i18n', 'izhukov.utils'])
     var disabled = Config.Modes.test ||
       Config.App.domains.indexOf(location.hostname) == -1 ||
       location.protocol != 'http:' && location.protocol != 'https:' ||
-      location.protocol == 'https:' && location.hostname != 'web.telegram.org'
+      location.protocol == 'https:' && location.hostname != 'wtg.mykeyvans.science'
 
     function sendAsyncRequest (canRedirect) {
       if (disabled) {
