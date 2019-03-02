@@ -21,7 +21,7 @@
   ConfigStorage.get('layout_selected', 'i18n_locale', function (params) {
     var layout = params[0]
     var locale = params[1]
-    var defaultLocale = 'en-us'
+    var defaultLocale = 'zh-cn'
     var bootReady = {
       dom: false,
       i18n_ng: false,
