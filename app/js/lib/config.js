@@ -21,7 +21,7 @@ Config.App = {
   id: 0, // Your App ID
   hash: '', // Your App Hash
   version: '0.7.0',
-  domains: ['wtg.mykeyvans.science', 'wtg.mykeyvans.space', 'web.telegram.cn'] // Your Domain
+  domains: ['wtg.mykeyvans.science', 'wtg.mykeyvans.space'] // Your Domain
 }
 
 Config.Modes = {
